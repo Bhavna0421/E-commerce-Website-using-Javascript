@@ -12,3 +12,14 @@
 # UI of Team Blog
 
 ![shoe4](https://user-images.githubusercontent.com/98327416/192083246-7d8d4967-bcc1-450a-a77c-f72b855e5946.png)
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavna-sharma-1060a620b/)
+
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at bhavnasharma0421@gmail.com
+
